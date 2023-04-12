@@ -1,7 +1,8 @@
 ---
+layout: '../../layouts/MarkdownPost.astro'
 title: 使用Replit白嫖3G MC 服务器
 date: 2022-04-19 10:15:22
-tags: [教程,Replit,OneDrive,白嫖]
+tag: [教程,Replit,OneDrive,白嫖]
 top_img: 
 cover: 
 ---

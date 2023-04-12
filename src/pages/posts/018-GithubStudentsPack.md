@@ -1,7 +1,8 @@
 ---
+layout: '../../layouts/MarkdownPost.astro'
 title: 白嫖Github学生包！
 date: 2022-06-28 22:18:24
-tags: [教程,白嫖,Github,Azure]
+tag: [教程,白嫖,Github,Azure]
 top_img:  https://bing.icodeq.com/?11
 cover: https://bing.icodeq.com/?13
 ---

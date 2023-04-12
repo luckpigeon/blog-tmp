@@ -1,7 +1,8 @@
 ---
+layout: '../../layouts/MarkdownPost.astro'
 title: 在Replit中配置Nix环境
 date: 2022-04-20 12:15:22
-tags: [教程,Replit,白嫖]
+tag: [教程,Replit,白嫖]
 top_img: 
 cover: 
 ---

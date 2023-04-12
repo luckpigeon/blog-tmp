@@ -1,7 +1,8 @@
 ---
+layout: '../../layouts/MarkdownPost.astro'
 title: 使用ZeroTier居家办公
 date: 2022-03-22 22:22:22
-tags: [教程,ZeroTier,白嫖,网盘,OneDrive,Alist]
+tag: [教程,ZeroTier,白嫖,网盘,OneDrive,Alist]
 top_img: 
 cover: 
 ---

@@ -1,7 +1,8 @@
 ---
+layout: '../../layouts/MarkdownPost.astro'
 title: 截止文章发表日期所获成就及奖项
 date: 2022-02-26 12:36:31
-tags: [日常,记录]
+tag: [日常,记录]
 top_img: https://img.pighog.repl.co/2022/03/psc1.jpg
 cover: 
 swiper_index: 990

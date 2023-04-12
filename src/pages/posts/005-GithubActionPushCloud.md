@@ -1,7 +1,8 @@
 ---
+layout: '../../layouts/MarkdownPost.astro'
 title: 使用GithubAction推送仓库至任意网盘
 date: 2022-03-10 09:12:34
-tags: [教程,GithubAction,自动部署,白嫖,网盘]
+tag: [教程,GithubAction,自动部署,白嫖,网盘]
 top_img: https://img.pighog.repl.co/2022/03/psc.jpg
 cover: https://img.pighog.repl.co/2022/03/psc.jpg
 ---

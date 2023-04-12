@@ -1,7 +1,8 @@
 ---
+layout: '../../layouts/MarkdownPost.astro'
 title: 使用脚本定时备份SSH中任意文件至SSH或任意网盘
 date: 2022-04-04 08:20:22
-tags: [教程,网盘,OneDrive,SSH]
+tag: [教程,网盘,OneDrive,SSH]
 top_img: 
 cover: 
 ---

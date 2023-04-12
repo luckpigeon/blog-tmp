@@ -1,7 +1,8 @@
 ---
+layout: '../../layouts/MarkdownPost.astro'
 title: 在Replit中自建监控网站
 date: 2022-04-22 23:15:22
-tags: [教程,Replit,白嫖]
+tag: [教程,Replit,白嫖]
 top_img: 
 cover: 
 ---

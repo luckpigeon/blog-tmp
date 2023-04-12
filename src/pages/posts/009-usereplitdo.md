@@ -1,7 +1,8 @@
 ---
+layout: '../../layouts/MarkdownPost.astro'
 title: 使用Replit白嫖各种语言项目
 date: 2022-04-17 09:15:22
-tags: [教程,Replit,OneDrive,白嫖]
+tag: [教程,Replit,OneDrive,白嫖]
 top_img: 
 cover: 
 ---

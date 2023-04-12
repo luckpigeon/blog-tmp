@@ -1,7 +1,8 @@
 ---
+layout: '../../layouts/MarkdownPost.astro'
 title: 使用GithubAction给任意网页截图
 date: 2022-05-08 08:15:08
-tags: [教程,GithubAction,白嫖]
+tag: [教程,GithubAction,白嫖]
 top_img:  https://bing.icodeq.com/?5
 cover: https://bing.icodeq.com/?1 
 ---

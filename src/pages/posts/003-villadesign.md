@@ -1,7 +1,8 @@
 ---
+layout: '../../layouts/MarkdownPost.astro'
 title: 课程作业-别墅设计
 date: 2022-02-24 16:24:00
-tags: [日常,作业,设计]
+tag: [日常,作业,设计]
 top_img: https://gitlab.com/valetzx/pubfile/raw/main/img/computer/villa1.png
 cover: https://gitlab.com/valetzx/pubfile/raw/main/img/computer/villa1.png
 swiper_index: 989

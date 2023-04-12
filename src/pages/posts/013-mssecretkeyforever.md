@@ -1,7 +1,8 @@
 ---
+layout: '../../layouts/MarkdownPost.astro'
 title: 使用Graph获取微软永久客户端秘钥
 date: 2022-04-30 23:15:22
-tags: [教程,白嫖]
+tag: [教程,白嫖]
 top_img: 
 cover: 
 ---

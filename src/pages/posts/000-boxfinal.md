@@ -1,7 +1,8 @@
 ---
+layout: '../../layouts/MarkdownPost.astro'
 title: 我的21年毕设
 date: 2022-02-25 17:24:12
-tags: [毕设,作业,设计]
+tag: [毕设,作业,设计]
 top_img: https://bing.icodeq.com/?9
 cover: https://bing.icodeq.com/
 swiper_index: 999

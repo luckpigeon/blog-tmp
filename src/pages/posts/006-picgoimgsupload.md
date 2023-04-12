@@ -1,7 +1,8 @@
 ---
+layout: '../../layouts/MarkdownPost.astro'
 title: 使用Typora写作并配置PicGo图床推荐
 date: 2022-03-12 21:04:11
-tags: [教程,GithubAction,图床,白嫖,网盘,OneDrive]
+tag: [教程,GithubAction,图床,白嫖,网盘,OneDrive]
 top_img: https://img.pighog.repl.co/2022/03/psc3.jpg
 cover: https://img.pighog.repl.co/2022/03/psc3.jpg
 ---
