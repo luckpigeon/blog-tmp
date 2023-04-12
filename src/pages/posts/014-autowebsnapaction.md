@@ -1,16 +1,12 @@
 ---
 layout: '../../layouts/MarkdownPost.astro'
-title: '使用GithubAction给任意网页截图
-网页快照' index.md'
-pubDate: '2022-05-08 08:15:08
-2022/05/06 ' index.md'
+title: '使用GithubAction给任意网页截图网页快照'
+pubDate: '2022-05-08 08:15:08'
 description: ''
 author: 'Bing'
 cover:
-    url: 'https://bing.icodeq.com/?1 
-' index.md'
-    square: ' https://bing.icodeq.com/?5
-https://bing.icodeq.com ' index.md'
+    url: 'https://bing.icodeq.com/?1 '
+    square: 'https://bing.icodeq.com/?5'
     alt: 'cover'
 tags: [教程,GithubAction,白嫖]
 theme: 'dark'
